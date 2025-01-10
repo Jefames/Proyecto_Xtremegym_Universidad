@@ -1,0 +1,6 @@
+.required-indicator {
+    color: red; /* Establece el color a rojo */
+    font-weight: bold; /* Hace el texto más grueso */
+    text-decoration: none; /* Opcional: elimina el subrayado */
+}
+
